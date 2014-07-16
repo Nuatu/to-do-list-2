@@ -1,0 +1,13 @@
+/*#second-column{
+  display:none;
+}*/
+
+.list-items {
+cursor: pointer;
+color: blue;
+}
+
+.list-items:hover {
+text-decoration: underline;
+color: red;
+}
