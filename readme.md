@@ -1,7 +1,5 @@
-Epicodus lesson on Object Oriented Design, week2 Day1 assignment1.
+Epicodus lesson on Object Oriented Design, week2 Day3
 
-Take user input for a task they want to complete. 
+Take user input for to do list and cooresponding tasks they want to complete. 
 
-Strike through when the user clicks the radio button.
-
-Remove strike through when the user un-clicks the radio button.
+Return the lists and tasks. 
